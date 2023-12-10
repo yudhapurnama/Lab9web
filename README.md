@@ -1,6 +1,6 @@
-| Nama      | Muhammad Din Al Ayubi |
+| Nama      | Yudha Purnama Putra |
 | ----------- | ----------- |
-| NIM     | 312010293       |
+| NIM     | 312010352       |
 | Kelas   | TI.22.A.3        |
 # Lab9web
 ## Instruksi Praktikum
